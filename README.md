@@ -42,4 +42,4 @@ This repository is structured in a way that you can directly jump to any topic a
 
 Clone the repo and explore:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/jayram10125/FULL-STACK-DATA-SCIENCE.git
