@@ -21,7 +21,7 @@ This repository is structured in a way that you can directly jump to any topic a
 
 🎨 Seaborn :- https://github.com/jayram10125/FULL-STACK-DATA-SCIENCE/tree/main/SEABORN
 
-📉 Plotly :- ...
+📉 Plotly :- https://github.com/jayram10125/FULL-STACK-DATA-SCIENCE/tree/main/PLOTLY
 
 🔹 Core AI & ML Concepts
 
