@@ -19,7 +19,7 @@ This repository is structured in a way that you can directly jump to any topic a
 
 📈 Matplotlib :- https://github.com/jayram10125/FULL-STACK-DATA-SCIENCE/tree/main/MATPLOTLIB
 
-🎨 Seaborn :- ...
+🎨 Seaborn :- https://github.com/jayram10125/FULL-STACK-DATA-SCIENCE/tree/main/SEABORN
 
 📉 Plotly :- ...
 
